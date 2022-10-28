@@ -2,19 +2,15 @@
 
 
 ### :rocket: About me
+
+<!--
 Mi chiamo Jordan, ho 27 anni e vivo a Roma. Sono un appassionato di informatica. :v:
-
 :computer: Conosco PHP e laravel, Javascript e vue.js e il linguaggio SQL per interagire con database MYSQL.
-
 ...
-
 :book: Currenlty learning: Docker
-
-
-
 :books: Nel tempo libero mi piace leggere e imparare nuove tecnologie. Stare al passo con le novità dei linguaggi...
-
 :airplane: Amo viaggiare ...
+-->
 
 ### Linguaggi e strumenti
 
