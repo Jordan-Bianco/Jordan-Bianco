@@ -1,9 +1,8 @@
 ## Ciao, sono Jordan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px">
 
-
+<!--
 ### :rocket: About me
 
-<!--
 Mi chiamo Jordan, ho 27 anni e vivo a Roma. Sono un appassionato di informatica. :v:
 :computer: Conosco PHP e laravel, Javascript e vue.js e il linguaggio SQL per interagire con database MYSQL.
 ...
